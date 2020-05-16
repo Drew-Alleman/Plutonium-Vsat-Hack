@@ -2,7 +2,7 @@
 Internal Plutonium Black Ops II Constant VSAT hack. Under the folder /CT/ you can <br> find the cheat table i used.
 
 # Injection 
-I recommend using either [Xenos Injector](https://www.unknowncheats.me/forum/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html) or [Guided Hacking DLL Injector ](https://guidedhacking.com/resources/guided-hacking-dll-injector.4/) Make sure to use manuel map injection. Im not too familiar with the GH injector but i know its trusted and ive heard good things.  <br> For Xenos you can find this under advanced settings. ![Manual Map](/Showcase/manual_map.jpg) 
+I injected using the [Xenos Injector](https://www.unknowncheats.me/forum/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html) <br>Make sure to use manuel map injection.For Xenos you can find this under advanced settings. ![Manual Map](/Showcase/manual_map.jpg) 
 
 # How To Compile
 1. Make sure precompiled headers is off <br>
