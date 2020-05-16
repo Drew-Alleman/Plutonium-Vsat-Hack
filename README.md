@@ -8,7 +8,7 @@ I recommend using either [Xenos Injector](https://www.unknowncheats.me/forum/gen
 Build under Release -> x86 -> Local Windows Debugger
 
 # Direct Download
-you can go to releases to download the latest compiled dll.
+you can go to [releases](https://github.com/Drew-Alleman/Plutonium-Vsat-Hack/releases/) to download the latest compiled dll.
 
 # KeyBinds  
 
